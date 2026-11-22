@@ -43,7 +43,7 @@ Version 1.0 has one drug: **ibuprofen** and its target, **cyclooxygenase (COX-1)
 
 ## Credits
 
-Drug Targets 3D was designed by ugurlab and built with Claude (Anthropic).
+Drug Targets 3D was designed by Ugur Comlekcioglu and built with Claude (Anthropic).
 
 The 3D viewer is [3Dmol.js](https://3dmol.csb.pitt.edu/) 2.5.5 (BSD-3-Clause), bundled in the HTML file together with the licence texts of its components.
 
